@@ -4,4 +4,6 @@
 #5.1 Tour of CRA
 
 
+# React 18 index.js 설정
+
 ### npm install prop-types
