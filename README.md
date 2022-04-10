@@ -16,8 +16,10 @@
 - 외부 API: https://yts.mx/api/v2/list_movies.json?minimum_rating=9&sort_by=year
 
 ### #7.6 Parameters
-- Challenge: Detail 페이지에 내용 생성
-### npm install prop-types
-### npm install react-router-dom
-### npm install gh-pages
+- Challenge: Detail 페이지에 내용 생성    
 - 결과물은 github pages에 업로드 할 수 있게 해주는 패키지
+
+---
+npm install prop-types   
+npm install react-router-dom   
+npm install gh-pages   
