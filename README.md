@@ -18,6 +18,9 @@
 ### #7.6 Parameters
 - Challenge: Detail 페이지에 내용 생성    
 - 결과물은 github pages에 업로드 할 수 있게 해주는 패키지
+   
+### 결과물 - Github Page   
+https://practice-nomadcoders-lesson.github.io/React-for-beginners2/
 
 ---
 npm install prop-types   
